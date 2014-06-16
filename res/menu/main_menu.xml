@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	
+    <item 	
+        android:id="@+id/menuitem1"
+        android:title="@string/option1"                
+        android:icon="@drawable/ic_star_50" />  
+        
+    <item
+        android:id="@+id/menuitem2"
+        android:title="@string/option2"                
+        android:icon="@drawable/ic_star_50" />  
+        
+    <item
+        android:id="@+id/menuitem3"
+        android:title="@string/option3"                
+        android:icon="@drawable/ic_star_50" />  
+
+</menu>
+
